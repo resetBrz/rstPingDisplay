@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rstPingDisplay">
+    <output-path>$USER_HOME$/Desktop/RankUP/plugins</output-path>
+    <root id="archive" name="rstPingDisplay.jar">
+      <element id="module-output" name="rstPingDisplay" />
+      <element id="library" level="project" name="Maven: org.spigotmc:spigot-api:1.8-R0.1-SNAPSHOT" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+main: com.resetBrz.Main
+name: rstPingDisplay
+version: 1
+description: Shows your ping!
+authors: [ resetBrz ]
+commands:
+  ping:
+    description: Check your own or someone else's ping.
+    usage: /<command>
